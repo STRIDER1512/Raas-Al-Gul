@@ -11,7 +11,7 @@ This script automates the process of exploiting the EternalBlue vulnerability (M
 
 1. *Metasploit Framework*: Pre-installed on Kali Linux.
 2. *Apache Web Server*: Used to host the malicious file.
-3. **Joy Launcher Executable (joy_launcher.exe): The malicious file that will be downloaded and executed on the target machine.
+3. **Joy Launcher Executable (joy_launcher.exe): The malicious file that will be downloaded and executed on the target machine. [Zip password : 1234]
 
 ## Setup
 
